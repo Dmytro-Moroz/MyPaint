@@ -1,0 +1,18 @@
+C:\Users\hatefrost\Desktop\C\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\hatefrost\Desktop\C\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\hatefrost\Desktop\C\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\hatefrost\Desktop\C\MyPaint\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
+C:\Users\hatefrost\Desktop\C\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\hatefrost\Desktop\C\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\hatefrost\Desktop\C\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+C:\Users\hatefrost\Desktop\C\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\hatefrost\Desktop\C\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyPaint\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
